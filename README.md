@@ -1,8 +1,9 @@
-# HacktoberfestDemo
+# Hacktoberfest Demo
 
-This is a demo by Jon Spriggs, and is for...
+This repository was set up as demo for github newbies by JonTheNiceGuy. 
 
-LoosiferMcG - I'm here :-)
-Chris Frost
+Here are some links to get you started
+
+* [Article on basics of formatting on github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 [More Project contacts..](misc/Contacts.md)

@@ -2,6 +2,7 @@
 
 This is a demo by Jon Spriggs, and is for...
 
-Person 1
 LoosiferMcG - I'm here :-)
-Person 3
+Chris Frost
+
+[More Project contacts..](Contacts.md)

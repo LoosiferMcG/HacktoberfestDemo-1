@@ -7,4 +7,4 @@ Here are some links to get you started
 * [Getting started with Hacktober fest](https://hacktoberfest.digitalocean.com/details)
 * [Article on basics of formatting on github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-As a suggestion, please consider adding your name to the list of [participants who came back by..](misc/Contacts.md)
+As a suggestion, please consider adding your name to the list of [participants who came by..](misc/Contacts.md)

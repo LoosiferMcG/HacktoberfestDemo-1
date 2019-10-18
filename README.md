@@ -19,3 +19,7 @@ And these guides might come in handy all the time
 * [Article on basics of formatting on github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 Found some better stuff? Edit this page and add it in! :)
+
+Adding some new resources:
+* [Git and GitHub Tutoral for Beginners] (https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* [What actually is Github and why should we use it?] (https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)

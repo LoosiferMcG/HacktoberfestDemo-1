@@ -19,3 +19,6 @@ And these guides might come in handy all the time
 * [Article on basics of formatting on github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 Found some better stuff? Edit this page and add it in! :)
+
+If you want a nice easy to watch video on Github - use this link - easy watching and easily understood
+* [How the Heck do I use Github?] (https://lifehacker.com/how-the-heck-do-i-use-github-5983680)
